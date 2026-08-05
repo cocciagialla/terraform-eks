@@ -35,3 +35,8 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/terraform-eks.iml
+/.idea/vcs.xml
+/.idea/workspace.xml
